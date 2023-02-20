@@ -57,6 +57,7 @@ void GameScene::updateBoard()
 
 void GameScene::finalBoard()
 {
+    
     updateBoard();
     newGameBtn->show();
 }
