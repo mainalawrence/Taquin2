@@ -14,7 +14,6 @@ GameScene::GameScene(QTaquin& qTaquin, QWidget* parent)
 
 void GameScene::initBoard()
 {
-    
     newGameBtn->hide();
     clearComponents();
     pickImage();
